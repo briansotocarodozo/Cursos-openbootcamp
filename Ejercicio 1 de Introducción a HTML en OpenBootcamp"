@@ -1,0 +1,20 @@
+Ejercicio de Introduccion a Html en OpenBootcamp
+
+<!doctype html>
+<html>
+<head> </head>
+<title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+<h1>Ejercicio de Introducción a HTML en OpenBootcamp</h1>
+<body>
+    <p>Este es mi primer comentario de dos lineas </p>
+    <p>Aprendiendo a documentar mi codigo con Openbootcamp</p>
+<DIV>
+    <UL>
+        <li><a href="https://www.youtube.com/watch?v=OFncVIy-c_Y">Como Aprendí a Programar en 3 Meses y Conseguí una Oferta </a></LI>
+            <li><a href="https://www.youtube.com/watch?v=MJkdaVFHrto">Aprende HTML ahora! curso completo GRATIS desde cero</a></LI>
+                <li><a href="https://www.youtube.com/watch?v=ewvXWX9kmTw">Cómo Crear una Web Profesional en 5 minutos</a></LI>    
+    </UL>
+      </DIV>
+
+</body>
+</head>
